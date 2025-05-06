@@ -2,11 +2,11 @@
 A beginner-friendly console application built in C# that performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 # Features
-.Simple and user-friendly console interface
-.Input validation using double.TryParse()
-.Continuous operation until the user chooses to exit
-.Modular code structure with separate methods for each operation
-.Handles division by zero errors gracefully
+-Simple and user-friendly console interface
+-Input validation using double.TryParse()
+-Continuous operation until the user chooses to exit
+-Modular code structure with separate methods for each operation
+-Handles division by zero errors gracefully
 
 # What You'll Learn
 1.Using switch statements for control flow
